@@ -1,1 +1,1 @@
-# gex617-linguagens-de-programacao
+# GEX617 - Linguagens de Programação
